@@ -3,8 +3,8 @@
 This SDK allows you to quickly integrate Xsolla Login Widget with your website.
 Currently SDK supports following types of authorization:
 
-●	via login/password
-●	via social networks
+- via login/password
+- via social networks
 
 More methods on its way.
 
@@ -16,11 +16,10 @@ The library is used on:
 
 Connect Xsolla Login Javascript SDK.
 
-●	If your project uses Bower, launch the console and run the following command:
+-	If your project uses Bower, launch the console and run the following command:
 ```
 bower install xsolla-login-js-sdk
-```
-●	If you don’t have the package installed, add the following code to the <head> tag of the web page where you want to place the widget:
+-	If you don’t have the package installed, add the following code to the <head> tag of the web page where you want to place the widget:
   ```
 <script src="https://cdn.xsolla.net/xsolla-login-widget/sdk/2.1.1/xl.min.js"></script>
   ```
@@ -88,10 +87,10 @@ height  | Block height in pixels. Default is 550.
 
 ## Problems:
 
-* 1.	I can’t find Login ID. Where is it? *
+1.	I can’t find Login ID. Where is it? 
 
 Answer: Please go to your Publisher Account > Login settings > General settings > Login ID.
 
-* 2.	Where can I find the guide described full integration of Xsolla Login? *
+2.	Where can I find the guide described full integration of Xsolla Login?
 
 Answer: Please follow the link.
