@@ -16,7 +16,7 @@ The library is used on:
 
 Connect Xsolla Login Javascript SDK.
 
--	If your project uses Bower, launch the console and run the following command:
+-	If your project uses [Bower](https://bower.io), launch the console and run the following command:
 ```
 bower install xsolla-login-js-sdk
 ```
@@ -94,4 +94,4 @@ Answer: Please go to your Publisher Account > Login settings > General settings 
 
 2.	Where can I find the guide described full integration of Xsolla Login?
 
-Answer: Please follow the link.
+Answer: Please follow the [link](https://developers.xsolla.com/doc/login/).
