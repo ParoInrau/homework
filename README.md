@@ -19,6 +19,7 @@ Connect Xsolla Login Javascript SDK.
 -	If your project uses Bower, launch the console and run the following command:
 ```
 bower install xsolla-login-js-sdk
+```
 -	If you don’t have the package installed, add the following code to the <head> tag of the web page where you want to place the widget:
   ```
 <script src="https://cdn.xsolla.net/xsolla-login-widget/sdk/2.1.1/xl.min.js"></script>
