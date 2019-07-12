@@ -50,8 +50,8 @@ callbackUrl     | URL to redirect the user to after authentication. Must be iden
   
 Select the way of placing the widget on the website:
 
-●	fullscreen mode
-●	particular block of the page.
+-	fullscreen mode
+-	particular block of the page.
 
 
 
@@ -97,8 +97,8 @@ height  | Block height in pixels. Default is 550.
 
 1.	**I can’t find Login ID. Where is it?**
 
-Answer: Please go to your Publisher Account > Login settings > General settings > Login ID.
+Go to your `Publisher Account > Login settings > General settings > Login ID.`
 
 2.	**Where can I find the guide described full integration of Xsolla Login?**
 
-Answer: Please follow the [link](https://developers.xsolla.com/doc/login/).
+Follow the [link](https://developers.xsolla.com/doc/login/).
