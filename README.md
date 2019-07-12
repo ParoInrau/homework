@@ -78,8 +78,8 @@ Add the following script and specify the parameters as described below.
   ``` 
 <script type="text/javascript">
 var options = {
-  width: 400,
-  height: 550
+    width: 400,
+    height: 550
 };
 XL.AuthWidget(element_id, options);
 </script>
